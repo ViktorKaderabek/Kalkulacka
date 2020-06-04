@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Kalkulacka
+//  idkdd
 //
-//  Created by Viktor Kaderabek on 03/06/2020.
+//  Created by Viktor Kaderabek on 04/06/2020.
 //  Copyright © 2020 Viktor Kaderabek. All rights reserved.
 //
 
